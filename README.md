@@ -1,178 +1,182 @@
-# Hi there 👋, I'm Satwik Misra
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,8A2BE2,4B0082&height=220&section=header&text=Satwik%20Misra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Hackathon%20Finalist&descAlignY=60"/>
+</p>
 
-### 🚀 Backend Developer | AI Enthusiast | Hackathon Finalist | B.Tech CSE Student
+<h3 align="center">
+Building scalable backend systems, AI-powered applications, and solutions that solve real-world problems.
+</h3>
 
----
+<p align="center">
 
-## 💫 About Me
+<a href="https://www.linkedin.com/in/satwik-misra-227545321">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🚀 B.Tech Computer Science student passionate about Backend Development, AI Systems, and solving real-world problems.
-- 🏆 Smart India Hackathon 2025 Finalist | Finalist in 5+ National Hackathons.
-- 💻 Building scalable backend applications using FastAPI, Django, React, and modern AI frameworks.
-- 🧠 Currently sharpening my DSA skills while preparing for Software Engineering internships.
-- 🤖 Exploring LLM Orchestration, LangChain, LangGraph, RAG, Backend Architecture, and Cloud Technologies.
-- 🌱 I believe learning fast is one of my biggest strengths. If I don't know something today, I'll know it tomorrow.
-- 🔥 Always building. Always learning. Always improving.
+<a href="mailto:satwikcse2028@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://leetcode.com/u/BGFacZI96a/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-## 🚀 Current Focus
-
-- 📚 Solving DSA every day
-- ⚙️ Backend Development
-- 🤖 AI & LLM Applications
-- 🔗 LangChain & LangGraph
-- 🧩 Retrieval-Augmented Generation (RAG)
-- 💼 Preparing for Software Engineering Internships
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 💫 About Me
 
-### 👨‍💻 Languages
+💻 Backend Developer passionate about building scalable APIs, AI-powered applications and automation systems.
 
-- C++
-- Java
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+🤖 Currently exploring **LLM Orchestration, LangChain, LangGraph, RAG and AI Agents.**
 
-### ⚙️ Backend
+🏆 **Smart India Hackathon 2025 Finalist** and Finalist in **5+ National Hackathons.**
 
-- FastAPI
-- Django
-- REST APIs
-- JWT Authentication
-- WebSockets
+📚 Solving **DSA daily** while preparing for Software Engineering internships.
 
-### 🎨 Frontend
+🚀 I love transforming ideas into products that people can actually use.
 
-- React
-- Vite
-- Tailwind CSS
-- Bootstrap
+---
 
-### 🤖 AI / LLM
+# 🛠 Tech Stack
 
-- LangChain
-- LangGraph
-- LLM Orchestration
-- RAG
-- Google Gemini API
-- XGBoost
-- TensorFlow Lite
-- Scikit-Learn
-- Prompt Engineering
+## Languages
 
-### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,mysql"/>
+</p>
 
-- MySQL
-- Firebase
-- ThingSpeak
+## Backend
 
-### 🚀 Deployment & Dev Tools
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,docker"/>
+</p>
 
-- Docker
-- Git
-- GitHub
-- Netlify
-- Vercel
-- n8n
+<p>
+<img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-blue?style=for-the-badge"/>
+</p>
 
-### 🎨 Design & Productivity
+## Frontend
 
-- Canva
-- Figma
-- Postman
-- VS Code
-- Cursor AI
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
+</p>
+
+## AI / LLM
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM%20Orchestration-darkgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-black?style=for-the-badge"/>
+
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,firebase,vscode"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cursor_AI-black?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🦾 BioFit 3D
-**Smart India Hackathon 2025 Finalist**
-
-Portable intelligent contouring device for customized prosthetic sockets using IoT sensors, FastAPI backend, and predictive machine learning.
-
-**Tech:** ESP32 • FastAPI • React • XGBoost • ThingSpeak
-
----
-
-## ⚖️ NyayMitra
-
-AI-powered legal assistance platform that simplifies legal information using modern LLMs and Retrieval-Augmented Generation.
-
-**Tech:** React • FastAPI • Gemini API • LangChain • RAG
-
----
-
-## 🚨 CrisisAI
-
-AI-assisted disaster response platform that leverages Retrieval-Augmented Generation to deliver fast and reliable emergency information.
-
-**Tech:** FastAPI • LangGraph • RAG • LLM Orchestration
-
----
-
-## 🔐 LexChain
-
-Blockchain-powered legal document verification platform with AI-driven contract analysis.
-
-**Tech:** React • FastAPI • Blockchain • Gemini API
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🦾 **BioFit 3D** | SIH Finalist project for intelligent prosthetic socket contouring | FastAPI • React • ESP32 • XGBoost |
+| ⚖️ **NyayMitra** | AI-powered legal assistant using Retrieval-Augmented Generation | FastAPI • LangChain • Gemini |
+| 🚨 **CrisisAI** | AI disaster response platform with intelligent information retrieval | FastAPI • LangGraph • RAG |
+| 🔐 **LexChain** | Blockchain-powered legal document verification | React • FastAPI • Blockchain |
 
 ---
 
 # 🏆 Achievements
 
-- 🏆 Smart India Hackathon 2025 Finalist
-- 🏅 Finalist in 5+ National Level Hackathons
-- 🥇 Winner — Best Demonstration Award (National Level Hackathon)
-- 🎖️ Represented my college at IIT Indore BOSS OS Bug Bounty Programme
-- 🎤 Best Debater Award (2026)
-- 👥 Design & Branding Head — GeeksforGeeks Student Chapter
-- 🤝 Organized National-Level Hackathons & Technical Workshops with 100+ Participants
+🥇 Smart India Hackathon 2025 Finalist
+
+🏅 Finalist in 5+ National Hackathons
+
+🏆 Winner — Best Demonstration Award (National Level Hackathon)
+
+🛡 Represented PIEMR at IIT Indore BOSS OS Bug Bounty Programme
+
+👨‍💻 Design & Branding Head — GeeksforGeeks Student Chapter
+
+🎤 Best Debater Award (2026)
 
 ---
 
-# 🧩 Engineering Philosophy
+# 📈 GitHub Analytics
 
-> I enjoy understanding systems from the inside out.
->
-> Whether it's designing APIs, orchestrating LLM workflows, integrating AI into real-world applications, or building scalable backend systems, I love creating technology that solves meaningful problems.
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satwik0212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-# 📊 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik0212&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<!-- Replace YOUR_USERNAME below -->
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satwik0212&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Satwik0212&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Satwik0212&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik0212&layout=compact&theme=tokyonight)
+</p>
 
----
+<p align="center">
 
-# 🌐 Connect with Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik0212&theme=tokyo-night&hide_border=true"/>
 
-- 💼 LinkedIn: www.linkedin.com/in/satwik-misra-227545321
-- 💻 Portfolio: YOUR_PORTFOLIO
-- 📧 Email: satwikcse2028@gmail.com
-- 🧩 LeetCode: [Satwik Misra](https://leetcode.com/u/BGFacZI96a/)
+</p>
 
 ---
 
-## 💭 Quote
+# 🌱 Currently Learning
 
-> *"Learning fast is one of my greatest strengths. Every technology I don't know today becomes tomorrow's challenge."*
+- Advanced DSA
+- Backend System Design
+- AI Agents
+- LangGraph
+- LLM Orchestration
+- Docker
+- Design Patterns
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 📫 Let's Connect
 
-🚀 **Let's build something impactful together.**
+💼 LinkedIn → https://www.linkedin.com/in/satwik-misra-227545321
+
+📧 Email → satwikcse2028@gmail.com
+
+🧩 LeetCode → https://leetcode.com/u/BGFacZI96a/
+
+---
+
+> **"I believe software should solve problems, not just demonstrate technology."**
+
+<p align="center">
+
+⭐ Thanks for visiting!
+
+</p>
